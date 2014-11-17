@@ -1,5 +1,5 @@
 {
-    "name"        : "WCM/AstroFields/Examples/SettingsSection",
+    "name"        : "wecodemore/astroexamples-settings-section",
     "version"     : "0.1.0-alpha1",
     "description" : "Settings Section Fields Extension Example for the AstroFields framework",
     "keywords"    : [ "wordpress", "forms", "fields" ],
